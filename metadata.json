@@ -1,0 +1,8 @@
+{
+  "name": "Road Rush",
+  "description": "3D combat motorcycle racing across five realistic cities and seasons with gyroscope steering, side-by-side weapons, cross-platform multiplayer, leaderboards, and global tournaments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

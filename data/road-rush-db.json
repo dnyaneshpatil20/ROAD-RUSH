@@ -1,0 +1,582 @@
+{
+  "profiles": {
+    "rr_kc5ia36t": {
+      "playerId": "rr_kc5ia36t",
+      "syncCode": "RR-RR_K",
+      "name": "Rider",
+      "coins": 500,
+      "highestUnlockedRace": 0,
+      "equippedSkinId": "crimson-corsa",
+      "equippedAccessoryId": "street-pro",
+      "ownedSkins": [
+        "crimson-corsa"
+      ],
+      "ownedAccessories": [
+        "street-pro"
+      ],
+      "totalWins": 0,
+      "totalKnockouts": 0,
+      "bestTimes": {},
+      "tournamentPoints": 0,
+      "completedChallenges": [],
+      "challengeProgress": {}
+    },
+    "rr_wjqzhqqi": {
+      "playerId": "rr_wjqzhqqi",
+      "syncCode": "RR-RR_W",
+      "name": "Rider",
+      "coins": 500,
+      "highestUnlockedRace": 0,
+      "equippedSkinId": "crimson-corsa",
+      "equippedAccessoryId": "street-pro",
+      "ownedSkins": [
+        "crimson-corsa"
+      ],
+      "ownedAccessories": [
+        "street-pro"
+      ],
+      "totalWins": 0,
+      "totalKnockouts": 0,
+      "bestTimes": {},
+      "tournamentPoints": 0,
+      "completedChallenges": [],
+      "challengeProgress": {}
+    },
+    "rr_rm9wpkrr": {
+      "playerId": "rr_rm9wpkrr",
+      "syncCode": "RR-RR_R",
+      "name": "Rider",
+      "coins": 500,
+      "highestUnlockedRace": 0,
+      "equippedSkinId": "crimson-corsa",
+      "equippedAccessoryId": "street-pro",
+      "ownedSkins": [
+        "crimson-corsa"
+      ],
+      "ownedAccessories": [
+        "street-pro"
+      ],
+      "totalWins": 0,
+      "totalKnockouts": 0,
+      "bestTimes": {},
+      "tournamentPoints": 0,
+      "completedChallenges": [],
+      "challengeProgress": {}
+    },
+    "rr_lvlw86xx": {
+      "playerId": "rr_lvlw86xx",
+      "syncCode": "RR-RR_L",
+      "name": "Rider",
+      "coins": 500,
+      "highestUnlockedRace": 0,
+      "equippedSkinId": "crimson-corsa",
+      "equippedAccessoryId": "street-pro",
+      "ownedSkins": [
+        "crimson-corsa"
+      ],
+      "ownedAccessories": [
+        "street-pro"
+      ],
+      "totalWins": 0,
+      "totalKnockouts": 0,
+      "bestTimes": {},
+      "tournamentPoints": 0,
+      "completedChallenges": [],
+      "challengeProgress": {}
+    },
+    "rr_ftb2elds": {
+      "playerId": "rr_ftb2elds",
+      "syncCode": "RR-RR_F",
+      "name": "Rider",
+      "coins": 250,
+      "highestUnlockedRace": 0,
+      "equippedSkinId": "carbon-stealth",
+      "equippedAccessoryId": "street-pro",
+      "ownedSkins": [
+        "crimson-corsa",
+        "carbon-stealth"
+      ],
+      "ownedAccessories": [
+        "street-pro"
+      ],
+      "totalWins": 0,
+      "totalKnockouts": 0,
+      "bestTimes": {},
+      "tournamentPoints": 0,
+      "completedChallenges": [],
+      "challengeProgress": {}
+    },
+    "rr_3f7ovk2e": {
+      "playerId": "rr_3f7ovk2e",
+      "syncCode": "RR-RR_3",
+      "name": "Rider",
+      "coins": 500,
+      "highestUnlockedRace": 0,
+      "equippedSkinId": "crimson-corsa",
+      "equippedAccessoryId": "street-pro",
+      "ownedSkins": [
+        "crimson-corsa"
+      ],
+      "ownedAccessories": [
+        "street-pro"
+      ],
+      "totalWins": 0,
+      "totalKnockouts": 0,
+      "bestTimes": {},
+      "tournamentPoints": 0,
+      "completedChallenges": [],
+      "challengeProgress": {}
+    },
+    "rr_7oy94lg7": {
+      "playerId": "rr_7oy94lg7",
+      "syncCode": "RR-RR_7",
+      "name": "Rider",
+      "coins": 500,
+      "highestUnlockedRace": 0,
+      "equippedSkinId": "crimson-corsa",
+      "equippedAccessoryId": "street-pro",
+      "ownedSkins": [
+        "crimson-corsa"
+      ],
+      "ownedAccessories": [
+        "street-pro"
+      ],
+      "totalWins": 0,
+      "totalKnockouts": 0,
+      "bestTimes": {},
+      "tournamentPoints": 0,
+      "completedChallenges": [],
+      "challengeProgress": {}
+    },
+    "rr_2k3gq3cn": {
+      "playerId": "rr_2k3gq3cn",
+      "syncCode": "RR-RR_2",
+      "name": "Rider",
+      "coins": 4585,
+      "highestUnlockedRace": 4,
+      "equippedSkinId": "crimson-corsa",
+      "equippedAccessoryId": "street-pro",
+      "ownedSkins": [
+        "crimson-corsa"
+      ],
+      "ownedAccessories": [
+        "street-pro"
+      ],
+      "totalWins": 3,
+      "totalKnockouts": 9,
+      "bestTimes": {
+        "1": 47.16,
+        "2": 50.86,
+        "3": 52.51,
+        "4": 60.68
+      },
+      "tournamentPoints": 1890,
+      "completedChallenges": [
+        "daily-win-any",
+        "daily-ko-3",
+        "daily-speed-220"
+      ],
+      "challengeProgress": {
+        "daily-ko-3": 9,
+        "daily-brick-2": 0,
+        "daily-speed-220": 225,
+        "daily-win-any": 3
+      }
+    },
+    "rr_6qcxtjoi": {
+      "playerId": "rr_6qcxtjoi",
+      "syncCode": "RR-RR_6",
+      "name": "Rider",
+      "coins": 500,
+      "highestUnlockedRace": 0,
+      "equippedSkinId": "crimson-corsa",
+      "equippedAccessoryId": "street-pro",
+      "ownedSkins": [
+        "crimson-corsa"
+      ],
+      "ownedAccessories": [
+        "street-pro"
+      ],
+      "totalWins": 0,
+      "totalKnockouts": 0,
+      "bestTimes": {},
+      "tournamentPoints": 0,
+      "completedChallenges": [],
+      "challengeProgress": {}
+    },
+    "rr_n87n1dgb": {
+      "playerId": "rr_n87n1dgb",
+      "syncCode": "RR-RR_N",
+      "name": "Rider",
+      "coins": 500,
+      "highestUnlockedRace": 0,
+      "equippedSkinId": "crimson-corsa",
+      "equippedAccessoryId": "street-pro",
+      "ownedSkins": [
+        "crimson-corsa"
+      ],
+      "ownedAccessories": [
+        "street-pro"
+      ],
+      "totalWins": 0,
+      "totalKnockouts": 0,
+      "bestTimes": {},
+      "tournamentPoints": 0,
+      "completedChallenges": [],
+      "challengeProgress": {}
+    },
+    "rr_4cuxzkok": {
+      "playerId": "rr_4cuxzkok",
+      "syncCode": "RR-RR_4",
+      "name": "Rider",
+      "coins": 500,
+      "highestUnlockedRace": 0,
+      "weaponTier": 1,
+      "boosterTier": 1,
+      "equippedSkinId": "crimson-corsa",
+      "equippedAccessoryId": "street-pro",
+      "ownedSkins": [
+        "crimson-corsa"
+      ],
+      "ownedAccessories": [
+        "street-pro"
+      ],
+      "totalWins": 0,
+      "totalKnockouts": 0,
+      "bestTimes": {},
+      "tournamentPoints": 0,
+      "completedChallenges": [],
+      "challengeProgress": {}
+    },
+    "rr_yqx1971y": {
+      "playerId": "rr_yqx1971y",
+      "syncCode": "RR-RR_Y",
+      "name": "Rider",
+      "coins": 500,
+      "highestUnlockedRace": 0,
+      "weaponTier": 1,
+      "boosterTier": 1,
+      "equippedSkinId": "crimson-corsa",
+      "equippedAccessoryId": "street-pro",
+      "ownedSkins": [
+        "crimson-corsa"
+      ],
+      "ownedAccessories": [
+        "street-pro"
+      ],
+      "totalWins": 0,
+      "totalKnockouts": 0,
+      "bestTimes": {},
+      "tournamentPoints": 0,
+      "completedChallenges": [],
+      "challengeProgress": {}
+    },
+    "rr_257z3r59": {
+      "playerId": "rr_257z3r59",
+      "syncCode": "RR-RR_2",
+      "name": "Rider",
+      "coins": 500,
+      "highestUnlockedRace": 0,
+      "weaponTier": 1,
+      "boosterTier": 1,
+      "equippedSkinId": "crimson-corsa",
+      "equippedAccessoryId": "street-pro",
+      "ownedSkins": [
+        "crimson-corsa"
+      ],
+      "ownedAccessories": [
+        "street-pro"
+      ],
+      "totalWins": 0,
+      "totalKnockouts": 0,
+      "bestTimes": {},
+      "tournamentPoints": 0,
+      "completedChallenges": [],
+      "challengeProgress": {}
+    },
+    "rr_2zoqajut": {
+      "playerId": "rr_2zoqajut",
+      "syncCode": "RR-RR_2",
+      "name": "Rider",
+      "coins": 500,
+      "highestUnlockedRace": 0,
+      "weaponTier": 1,
+      "boosterTier": 1,
+      "equippedSkinId": "crimson-corsa",
+      "equippedAccessoryId": "street-pro",
+      "ownedSkins": [
+        "crimson-corsa"
+      ],
+      "ownedAccessories": [
+        "street-pro"
+      ],
+      "totalWins": 0,
+      "totalKnockouts": 0,
+      "bestTimes": {},
+      "tournamentPoints": 0,
+      "completedChallenges": [],
+      "challengeProgress": {}
+    },
+    "rr_2qkwjo70": {
+      "playerId": "rr_2qkwjo70",
+      "syncCode": "RR-RR_2",
+      "name": "Rider",
+      "coins": 500,
+      "highestUnlockedRace": 0,
+      "weaponTier": 1,
+      "boosterTier": 1,
+      "equippedSkinId": "crimson-corsa",
+      "equippedAccessoryId": "street-pro",
+      "ownedSkins": [
+        "crimson-corsa"
+      ],
+      "ownedAccessories": [
+        "street-pro"
+      ],
+      "totalWins": 0,
+      "totalKnockouts": 0,
+      "bestTimes": {},
+      "tournamentPoints": 0,
+      "completedChallenges": [],
+      "challengeProgress": {}
+    }
+  },
+  "syncCodes": {
+    "RR-RR_K": "rr_kc5ia36t",
+    "RR-RR_W": "rr_wjqzhqqi",
+    "RR-RR_R": "rr_rm9wpkrr",
+    "RR-RR_L": "rr_lvlw86xx",
+    "RR-RR_F": "rr_ftb2elds",
+    "RR-RR_3": "rr_3f7ovk2e",
+    "RR-RR_7": "rr_7oy94lg7",
+    "RR-RR_2": "rr_2qkwjo70",
+    "RR-RR_6": "rr_6qcxtjoi",
+    "RR-RR_N": "rr_n87n1dgb",
+    "RR-RR_4": "rr_4cuxzkok",
+    "RR-RR_Y": "rr_yqx1971y"
+  },
+  "leaderboard": [
+    {
+      "id": "lb-1794639679221-0z5p",
+      "playerId": "rr_2k3gq3cn",
+      "playerName": "Rider",
+      "raceId": 1,
+      "city": "Munnar Hills",
+      "timeSeconds": 47.16,
+      "knockouts": 0,
+      "rank": 1,
+      "platform": "Desktop WebGL",
+      "createdAt": "2026-11-14T07:01:19.221Z"
+    },
+    {
+      "id": "lb-1794639797657-qj4y",
+      "playerId": "rr_2k3gq3cn",
+      "playerName": "Rider",
+      "raceId": 2,
+      "city": "Kyoto",
+      "timeSeconds": 50.86,
+      "knockouts": 0,
+      "rank": 1,
+      "platform": "Desktop WebGL",
+      "createdAt": "2026-11-14T07:03:17.657Z"
+    },
+    {
+      "id": "seed-1",
+      "playerId": "seed-rossi",
+      "playerName": "V. Rossi",
+      "raceId": 0,
+      "city": "San Francisco",
+      "timeSeconds": 51.4,
+      "knockouts": 3,
+      "rank": 1,
+      "platform": "Desktop WebGL",
+      "createdAt": "2026-11-13T23:22:05.920Z"
+    },
+    {
+      "id": "lb-1794640689210-o8bz",
+      "playerId": "rr_2k3gq3cn",
+      "playerName": "Rider",
+      "raceId": 3,
+      "city": "Zermatt",
+      "timeSeconds": 52.51,
+      "knockouts": 1,
+      "rank": 1,
+      "platform": "Desktop WebGL",
+      "createdAt": "2026-11-14T07:18:09.210Z"
+    },
+    {
+      "id": "lb-1794639629287-2k66",
+      "playerId": "rr_2k3gq3cn",
+      "playerName": "Rider",
+      "raceId": 1,
+      "city": "Munnar Hills",
+      "timeSeconds": 53.06,
+      "knockouts": 1,
+      "rank": 7,
+      "platform": "Desktop WebGL",
+      "createdAt": "2026-11-14T07:00:29.287Z"
+    },
+    {
+      "id": "lb-1794639741683-lf1k",
+      "playerId": "rr_2k3gq3cn",
+      "playerName": "Rider",
+      "raceId": 2,
+      "city": "Kyoto",
+      "timeSeconds": 55.25,
+      "knockouts": 0,
+      "rank": 11,
+      "platform": "Desktop WebGL",
+      "createdAt": "2026-11-14T07:02:21.683Z"
+    },
+    {
+      "id": "lb-1794639933694-zhjb",
+      "playerId": "rr_2k3gq3cn",
+      "playerName": "Rider",
+      "raceId": 3,
+      "city": "Zermatt",
+      "timeSeconds": 55.48,
+      "knockouts": 1,
+      "rank": 9,
+      "platform": "Desktop WebGL",
+      "createdAt": "2026-11-14T07:05:33.695Z"
+    },
+    {
+      "id": "lb-1794639996944-85qv",
+      "playerId": "rr_2k3gq3cn",
+      "playerName": "Rider",
+      "raceId": 3,
+      "city": "Zermatt",
+      "timeSeconds": 56.65,
+      "knockouts": 1,
+      "rank": 9,
+      "platform": "Desktop WebGL",
+      "createdAt": "2026-11-14T07:06:36.944Z"
+    },
+    {
+      "id": "lb-1794640632779-i8qo",
+      "playerId": "rr_2k3gq3cn",
+      "playerName": "Rider",
+      "raceId": 3,
+      "city": "Zermatt",
+      "timeSeconds": 57.25,
+      "knockouts": 0,
+      "rank": 11,
+      "platform": "Desktop WebGL",
+      "createdAt": "2026-11-14T07:17:12.779Z"
+    },
+    {
+      "id": "lb-1794639869389-6sv3",
+      "playerId": "rr_2k3gq3cn",
+      "playerName": "Rider",
+      "raceId": 3,
+      "city": "Zermatt",
+      "timeSeconds": 57.62,
+      "knockouts": 3,
+      "rank": 9,
+      "platform": "Desktop WebGL",
+      "createdAt": "2026-11-14T07:04:29.389Z"
+    },
+    {
+      "id": "seed-2",
+      "playerId": "seed-taka",
+      "playerName": "K. Takahashi",
+      "raceId": 1,
+      "city": "Munnar Hills",
+      "timeSeconds": 58.2,
+      "knockouts": 4,
+      "rank": 1,
+      "platform": "Mobile Gyro",
+      "createdAt": "2026-11-14T00:22:05.920Z"
+    },
+    {
+      "id": "lb-1794640756180-nhol",
+      "playerId": "rr_2k3gq3cn",
+      "playerName": "Rider",
+      "raceId": 4,
+      "city": "Tokyo Shinjuku",
+      "timeSeconds": 60.68,
+      "knockouts": 2,
+      "rank": 10,
+      "platform": "Desktop WebGL",
+      "createdAt": "2026-11-14T07:19:16.180Z"
+    },
+    {
+      "id": "seed-3",
+      "playerId": "seed-moreau",
+      "playerName": "E. Moreau",
+      "raceId": 2,
+      "city": "Kyoto",
+      "timeSeconds": 61.9,
+      "knockouts": 2,
+      "rank": 1,
+      "platform": "Desktop WebGL",
+      "createdAt": "2026-11-14T01:22:05.920Z"
+    },
+    {
+      "id": "seed-4",
+      "playerId": "seed-lindqvist",
+      "playerName": "M. Lindqvist",
+      "raceId": 3,
+      "city": "Zermatt",
+      "timeSeconds": 64.5,
+      "knockouts": 5,
+      "rank": 1,
+      "platform": "Mobile Gyro",
+      "createdAt": "2026-11-14T03:22:05.920Z"
+    },
+    {
+      "id": "seed-5",
+      "playerId": "seed-chen",
+      "playerName": "S. Chen",
+      "raceId": 4,
+      "city": "Tokyo Shinjuku",
+      "timeSeconds": 68.1,
+      "knockouts": 6,
+      "rank": 1,
+      "platform": "Desktop WebGL",
+      "createdAt": "2026-11-14T04:22:05.920Z"
+    }
+  ],
+  "tournaments": {
+    "seed-rossi": {
+      "playerId": "seed-rossi",
+      "playerName": "V. Rossi",
+      "points": 1450,
+      "wins": 6,
+      "bestLapSum": 298.4,
+      "tier": "Apex"
+    },
+    "seed-taka": {
+      "playerId": "seed-taka",
+      "playerName": "K. Takahashi",
+      "points": 1280,
+      "wins": 5,
+      "bestLapSum": 306.1,
+      "tier": "Gold"
+    },
+    "seed-moreau": {
+      "playerId": "seed-moreau",
+      "playerName": "E. Moreau",
+      "points": 1120,
+      "wins": 4,
+      "bestLapSum": 312.8,
+      "tier": "Gold"
+    },
+    "seed-chen": {
+      "playerId": "seed-chen",
+      "playerName": "S. Chen",
+      "points": 940,
+      "wins": 3,
+      "bestLapSum": 319.5,
+      "tier": "Silver"
+    },
+    "rr_2k3gq3cn": {
+      "playerId": "rr_2k3gq3cn",
+      "playerName": "Rider",
+      "points": 1890,
+      "wins": 3,
+      "bestLapSum": 211.2,
+      "tier": "Apex"
+    }
+  }
+}
